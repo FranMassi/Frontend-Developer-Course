@@ -1,0 +1,22 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+html{
+    font-size: 62,5%;
+}
+
+header{
+    width: 100%;
+    height: 80px;
+    background: rgb(15,198,193);
+}
+
+.logoPlatzi{
+    width: 15rem;
+    margin-top: 0.3rem;
+    margin-left: 0.3rem;
+}
+  
